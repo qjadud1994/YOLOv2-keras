@@ -26,9 +26,9 @@ yolov2 (or YOLO9000) was implemented as keras (tensorflow backend).
 
 It works well and is processed in real time on the GTX-1080.
 <br>
-And you can see the results of YOLO in the video.
-Click on the link below to see three images combined.
-From the left is YOLO using DarkNet19, DarkNet tiny, MobileNet.
+And you can see the results of YOLO in the video.<br>
+**Click** on the link below to see three images combined. <br>
+From the left is YOLO using DarkNet19, DarkNet tiny, MobileNet. <br>
 
 [YOLOv2 Demo](https://youtu.be/s3KO7YEkniQ)
 
