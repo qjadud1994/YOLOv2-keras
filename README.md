@@ -12,7 +12,7 @@ yolov2 (or YOLO9000) was implemented as keras (tensorflow backend).
 
 ## Todo list:
 - [x] DarkNet19, DarkNet tiny, MobileNet v1
-- [ ] SqueezeNet, ResNet, DenseNet backends
+- [ ] SqueezeNet, ResNet, DenseNet backbone
 - [x] Multiscale training
 - [x] mAP Evaluation
 - [x] PostProcessing for real-time process
