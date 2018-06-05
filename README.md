@@ -36,12 +36,12 @@ From the left is YOLO using DarkNet19, DarkNet tiny, MobileNet.
 
 ## File Description
 
-os : Ubuntu 16.04.4 LTS
-GPU : GeForce GTX 1080 (8GB)
-Python : 3.5.2
-Tensorflow : 1.5.0
-Keras : 2.1.3
-CUDA, CUDNN : 9.0, 7.0
+os : Ubuntu 16.04.4 LTS <br>
+GPU : GeForce GTX 1080 (8GB) <br>
+Python : 3.5.2 <br>
+Tensorflow : 1.5.0 <br>
+Keras : 2.1.3 <br>
+CUDA, CUDNN : 9.0, 7.0 <br>
 
 |       File         |Description                                                   |
 |----------------|--------------------------------------------------|
