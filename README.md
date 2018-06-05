@@ -23,11 +23,13 @@ yolov2 (or YOLO9000) was implemented as keras (tensorflow backend).
 
 ### Result
 ![enter image description here](https://github.com/qjadud1994/YOLOv2-keras/blob/master/result/yolo%20test.jpg)
+
 It works well and is processed in real time on the GTX-1080.
 
 And you can see the results of YOLO in the video.
 Click on the link below to see three images combined.
 From the left is YOLO using DarkNet19, DarkNet tiny, MobileNet.
+
 [YOLOv2 Demo](https://github.com/qjadud1994/YOLOv2-keras/blob/master/result/yolo%20demo.avi)
 
 - - -
@@ -40,6 +42,7 @@ Python : 3.5.2
 Tensorflow : 1.5.0
 Keras : 2.1.3
 CUDA, CUDNN : 9.0, 7.0
+
 |       File         |Description                                                   |
 |----------------|--------------------------------------------------|
 |Depthwise_conv .py  |  For MobileNet            |
