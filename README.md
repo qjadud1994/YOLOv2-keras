@@ -1,6 +1,6 @@
 # YOLO v2
 
-**YOLO** is a real-time object detection model based on deep learning.
+**YOLO** is a real-time object detection model based on deep learning. <br>
 yolov2 (or YOLO9000) was implemented as keras (tensorflow backend).
 
 
