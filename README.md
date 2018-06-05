@@ -30,7 +30,7 @@ And you can see the results of YOLO in the video.
 Click on the link below to see three images combined.
 From the left is YOLO using DarkNet19, DarkNet tiny, MobileNet.
 
-[YOLOv2 Demo](https://github.com/qjadud1994/YOLOv2-keras/blob/master/result/yolo%20demo.avi)
+[YOLOv2 Demo](https://youtu.be/s3KO7YEkniQ)
 
 - - -
 
