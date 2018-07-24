@@ -17,6 +17,7 @@ yolov2 (or YOLO9000) was implemented as keras (tensorflow backend).
 - [x] mAP Evaluation
 - [x] PostProcessing for real-time process
 - [ ] Warmup training
+- [ ] revise GT generator (I think this is the cause of the lower performance than the existing model)
 
 
 
