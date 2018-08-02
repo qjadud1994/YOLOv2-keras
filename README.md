@@ -20,6 +20,22 @@ yolov2 (or YOLO9000) was implemented as keras (tensorflow backend).
 - [ ] revise GT generator (I think this is the cause of the lower performance than the existing model)
 
 
+## How to Training
+
+I have created an annotation file of the form <br/><br/>
+
+# file_name / xmin / ymin / xmax / ymax / class
+2007_001185.jpg 500 375 197 199 289 323 cat
+2007_001185.jpg 500 375 78 78 289 375 person
+2007_001185.jpg 500 375 204 223 500 375 diningtable
+2007_001185.jpg 500 375 452 131 500 253 bottle
+2007_001763.jpg 500 375 281 119 500 375 cat
+2007_001763.jpg 500 375 1 24 330 366 dog
+2007_001763.jpg 500 375 1 48 500 375 sofa
+2007_001763.jpg 500 375 83 1 195 16 tvmonitor
+
+
+Then change the image directory and annotation directory in ![YOLO_parameter.py](https://github.com/qjadud1994/YOLOv2-keras/blob/master/YOLO_parameter.py)  and run ![YOLO_train.py](https://github.com/qjadud1994/YOLOv2-keras/blob/master/YOLO_train.py)
 
 
 ### Result
