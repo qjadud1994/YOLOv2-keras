@@ -32,9 +32,9 @@ I have created an annotation file of the form <br/><br/>
 2007_001763.jpg 500 375 281 119 500 375 cat <br/>
 2007_001763.jpg 500 375 1 24 330 366 dog <br/>
 2007_001763.jpg 500 375 1 48 500 375 sofa <br/>
-2007_001763.jpg 500 375 83 1 195 16 tvmonitor <br/><br/>
+2007_001763.jpg 500 375 83 1 195 16 tvmonitor <br/>
 
-[annotation example] (https://github.com/qjadud1994/YOLOv2-keras/blob/master/result/annotation.txt)
+[annotation example](https://github.com/qjadud1994/YOLOv2-keras/blob/master/result/annotation.txt)<br/>
 
 Then change the image directory and annotation directory in [YOLO_parameter.py](https://github.com/qjadud1994/YOLOv2-keras/blob/master/YOLO_parameter.py)  and run [YOLO_train.py](https://github.com/qjadud1994/YOLOv2-keras/blob/master/YOLO_train.py)
 
