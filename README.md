@@ -34,6 +34,7 @@ I have created an annotation file of the form <br/><br/>
 2007_001763.jpg 500 375 1 48 500 375 sofa <br/>
 2007_001763.jpg 500 375 83 1 195 16 tvmonitor <br/><br/>
 
+[annotation example] (https://github.com/qjadud1994/YOLOv2-keras/blob/master/result/annotation.txt)
 
 Then change the image directory and annotation directory in [YOLO_parameter.py](https://github.com/qjadud1994/YOLOv2-keras/blob/master/YOLO_parameter.py)  and run [YOLO_train.py](https://github.com/qjadud1994/YOLOv2-keras/blob/master/YOLO_train.py)
 
